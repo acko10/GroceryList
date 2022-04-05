@@ -1,0 +1,7 @@
+Grocery List
+1. Bread
+2. Eggs
+3. Grapes
+4. Butter
+5. Milk
+6. Tea
