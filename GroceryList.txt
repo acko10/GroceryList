@@ -4,3 +4,5 @@ Grocery List
 3. Bananas
 4. Butter
 5. Milk
+6. Honey
+7. Juice
